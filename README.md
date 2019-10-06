@@ -1,7 +1,7 @@
 # Grow Quickly
 Watch them grow! Water the plants! Pick the fruit! Shoo the crows!
 
-Play online: https://cxong.github.io/GrowQuickly/
+Play online: https://tic.computer/play?cart=964
 
 ![Animation](https://github.com/cxong/GrowQuickly/blob/master/anim.gif?raw=true)
 
