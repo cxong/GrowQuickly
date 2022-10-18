@@ -12,4 +12,4 @@ Grow quickly is an arcade farming game. Get higher scores to win bonus items!
 ![screenshot](https://github.com/cxong/GrowQuickly/blob/master/s2.png?raw=true)
 ![screenshot](https://github.com/cxong/GrowQuickly/blob/master/s3.png?raw=true)
 
-Made with https://tic.computer during [Ludum Dare 45](https://ldjam.com/events/ludum-dare/45/grow-quickly)
+Made with https://tic80.com during [Ludum Dare 45](https://ldjam.com/events/ludum-dare/45/grow-quickly)
