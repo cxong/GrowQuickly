@@ -2,7 +2,7 @@
 -- author:	congusbongus
 -- desc:	Grow plants and collect fruit!
 -- script:	lua
--- license: MIT
+-- license: MIT License
 -- site:	https://github.com/cxong/GrowQuickly
 
 t=0
